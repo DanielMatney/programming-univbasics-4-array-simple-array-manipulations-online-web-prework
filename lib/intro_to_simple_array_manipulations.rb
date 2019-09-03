@@ -14,8 +14,8 @@ def pop_with_args(array)
   array.pop(2)
 end
 
-def using_shift(Array)
-  new_array = array.shift
+def using_shift(cities)
+  new_array = cities.shift
 end
 
 def shift_with_args(array)
